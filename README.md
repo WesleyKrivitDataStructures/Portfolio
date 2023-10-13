@@ -17,10 +17,9 @@ Each assignment or project you work on can have its own page with subpages for e
 * After submitting your work on GitHub classroom, you may also include a link to your repositories here. When you go to _Insert Subpage,_ you have options to insert a new document page or a new link.
 
 ## Programming in Python
-
-{% hint style="success" %}
+<details>
 Whether or not this is your first class in Python, you may find it helpful to spend time reviewing Python3 paradigms and syntax.
-{% endhint %}
+</details>
 
 ## All things data structures
 
