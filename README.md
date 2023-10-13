@@ -17,33 +17,32 @@ Each assignment or project you work on can have its own page with subpages for e
 * After submitting your work on GitHub classroom, you may also include a link to your repositories here. When you go to _Insert Subpage,_ you have options to insert a new document page or a new link.
 
 ## Programming in Python
-<details>
+
 Whether or not this is your first class in Python, you may find it helpful to spend time reviewing Python3 paradigms and syntax.
-</details>
+
 
 ## All things data structures
 
-{% hint style="success" %}
-We will learn about a variety of data structures along with their respective advantages and trade offs. LeetCode problems are typically tagged by which data structures they're intended to incorporate. Homework projects will also likely center one data structure: the one that's the best fit for the given context and application.\
-\
+We will learn about a variety of data structures along with their respective advantages and trade offs. LeetCode problems are typically tagged by which data structures they're intended to incorporate. Homework projects will also likely center one data structure: the one that's the best fit for the given context and application.
+
 One way to organize this portion of your portfolio would be to have one page for each data structure, which includes links to and notes on each of the related practice problems you chose. Homework projects can be described separately in subpages.
-{% endhint %}
+
 
 ## Design and analysis
 
-{% hint style="success" %}
-We will also dive into programming concepts such as asymptotics, time-complexity, and space-complexity, i.e., that not all programs are created equal–two programs that perform the same task may not do so with the same efficiency or cleanliness.\
-\
-Not only does LeetCode give you space to practice solving problems, it also shows you how efficiently your accepted solution runs. This is a good opportunity to iterate on your code and see if you can solve the same problem using less time and space. \
-\
+
+We will also dive into programming concepts such as asymptotics, time-complexity, and space-complexity, i.e., that not all programs are created equal–two programs that perform the same task may not do so with the same efficiency or cleanliness.
+
+Not only does LeetCode give you space to practice solving problems, it also shows you how efficiently your accepted solution runs. This is a good opportunity to iterate on your code and see if you can solve the same problem using less time and space. 
+
 Use this group of pages/subpages to keep track of strategies and patterns you discover.
-{% endhint %}
+
 
 ## Bi-weekly reflections
 
 Every 2 weeks, take some time to respond to the prompts provided and then make notes of your participation and engagement with a _Student Service Report (SSR)_. Your contributions to class discussions, notes, and study group time uplift everyone. Also, if you like, maybe use this space to give yourself props for taking good care of your physical, social, and emotional well-being. Balance is key. :clap:
 
-{% hint style="success" %}
+
 **Sample Student Service Report (SSR) items**
 
 * Attended recitation(s) in Keck Lab
@@ -52,12 +51,12 @@ Every 2 weeks, take some time to respond to the prompts provided and then make n
 * Fixed a typo in notes page about Arrays
 * Responded to a classmate's comment on notes page about Search
 * Asked a good question about Strings during class
-* Got a high score on our _Kahoots!_ quiz in class on Lists\
+* Got a high score on our _Kahoots!_ quiz in class on Lists
   ...
 * Got 8+ hours of sleep most nights
 * Played pickleball on Friday
 * Called a family member or friend
 * Found a new therapist
 * Washed and folded my laundry
-{% endhint %}
+
 
